@@ -40,6 +40,7 @@ src/
 
 ## Developed By
 
-Sathish B
+Sathish B  
+Thangaduari Siva T A
 B.Tech Artificial Intelligence and Data Science
 Easwari Engineering College
